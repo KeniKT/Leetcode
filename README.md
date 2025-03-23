@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KeniKT/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/KeniKT/Leetcode/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/KeniKT/Leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KeniKT/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/KeniKT/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KeniKT/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KeniKT/Leetcode/tree/master/0739-daily-temperatures) |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KeniKT/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/KeniKT/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/KeniKT/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
