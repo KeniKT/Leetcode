@@ -1,24 +1,14 @@
-/**
- * @param {Function} fn
- * @param {Array} args
- * @param {number} t
- * @return {Function}
- */
 var cancellable = function(fn, args, t) {
     let timeoutId;
-    let hasBeenCancelled = false;
-    const result = [];
+    const result = [];  // optional, for tracking
 
     timeoutId = setTimeout(() => {
-        if (!hasBeenCancelled) {
-            const returnedValue = fn(...args);
-            result.push({"time": t, "returned": returnedValue});
-        }
+        const returnedValue = fn(...args);
+        result.push({ "time": t, "returned": returnedValue });
     }, t);
 
     const cancelFn = () => {
         clearTimeout(timeoutId);
-        hasBeenCancelled = true;
     };
 
     return cancelFn;
