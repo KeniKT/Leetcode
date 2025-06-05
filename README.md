@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KeniKT/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/KeniKT/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/KeniKT/Leetcode/tree/master/0792-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KeniKT/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/KeniKT/Leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/KeniKT/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/KeniKT/Leetcode/tree/master/0567-permutation-in-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KeniKT/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
