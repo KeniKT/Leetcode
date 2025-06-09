@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KeniKT/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KeniKT/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KeniKT/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/KeniKT/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KeniKT/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
