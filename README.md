@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KeniKT/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/KeniKT/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/KeniKT/Leetcode/tree/master/0739-daily-temperatures) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KeniKT/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KeniKT/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KeniKT/Leetcode/tree/master/0567-permutation-in-string) |
 ## Design
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KeniKT/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/KeniKT/Leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/KeniKT/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/KeniKT/Leetcode/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
