@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KeniKT/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KeniKT/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/KeniKT/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KeniKT/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KeniKT/Leetcode/tree/master/0146-lru-cache) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KeniKT/Leetcode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KeniKT/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KeniKT/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/KeniKT/Leetcode/tree/master/0392-is-subsequence) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KeniKT/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KeniKT/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KeniKT/Leetcode/tree/master/0567-permutation-in-string) |
