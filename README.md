@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KeniKT/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KeniKT/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/KeniKT/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KeniKT/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KeniKT/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KeniKT/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KeniKT/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/KeniKT/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KeniKT/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KeniKT/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KeniKT/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KeniKT/Leetcode/tree/master/0068-text-justification) |
