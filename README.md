@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KeniKT/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KeniKT/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KeniKT/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KeniKT/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KeniKT/Leetcode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/KeniKT/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
