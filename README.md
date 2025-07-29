@@ -318,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KeniKT/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/KeniKT/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
