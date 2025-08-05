@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KeniKT/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KeniKT/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KeniKT/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/KeniKT/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/KeniKT/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KeniKT/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KeniKT/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KeniKT/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KeniKT/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/KeniKT/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/KeniKT/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KeniKT/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KeniKT/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KeniKT/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KeniKT/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
