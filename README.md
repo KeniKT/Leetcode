@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KeniKT/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/KeniKT/Leetcode/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/KeniKT/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KeniKT/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeniKT/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KeniKT/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/KeniKT/Leetcode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KeniKT/Leetcode/tree/master/0100-same-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KeniKT/Leetcode/tree/master/0100-same-tree) |
