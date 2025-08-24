@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KeniKT/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KeniKT/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KeniKT/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KeniKT/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/KeniKT/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KeniKT/Leetcode/tree/master/0091-decode-ways) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KeniKT/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/KeniKT/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KeniKT/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KeniKT/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KeniKT/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KeniKT/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
