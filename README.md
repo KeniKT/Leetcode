@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KeniKT/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/KeniKT/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/KeniKT/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KeniKT/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KeniKT/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KeniKT/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KeniKT/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/KeniKT/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KeniKT/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/KeniKT/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KeniKT/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KeniKT/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KeniKT/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KeniKT/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KeniKT/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KeniKT/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
