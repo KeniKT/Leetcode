@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/KeniKT/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KeniKT/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/KeniKT/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KeniKT/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeniKT/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KeniKT/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KeniKT/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/KeniKT/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KeniKT/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KeniKT/Leetcode/tree/master/0100-same-tree) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KeniKT/Leetcode/tree/master/0100-same-tree) |
