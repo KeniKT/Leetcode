@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KeniKT/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/KeniKT/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KeniKT/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KeniKT/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/KeniKT/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KeniKT/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KeniKT/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KeniKT/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/KeniKT/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/KeniKT/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KeniKT/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/KeniKT/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KeniKT/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KeniKT/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/KeniKT/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KeniKT/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KeniKT/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KeniKT/Leetcode/tree/master/0046-permutations) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KeniKT/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KeniKT/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KeniKT/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KeniKT/Leetcode/tree/master/0059-spiral-matrix-ii) |
