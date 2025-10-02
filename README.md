@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/KeniKT/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/KeniKT/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/KeniKT/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/KeniKT/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/KeniKT/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KeniKT/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/KeniKT/Leetcode/tree/master/0120-triangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/KeniKT/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/KeniKT/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/KeniKT/Leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/KeniKT/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/KeniKT/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KeniKT/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KeniKT/Leetcode/tree/master/0205-isomorphic-strings) |
