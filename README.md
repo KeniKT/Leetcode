@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KeniKT/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KeniKT/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KeniKT/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KeniKT/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KeniKT/Leetcode/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KeniKT/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/KeniKT/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KeniKT/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/KeniKT/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/KeniKT/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/KeniKT/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/KeniKT/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/KeniKT/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/KeniKT/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KeniKT/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/KeniKT/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KeniKT/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KeniKT/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/KeniKT/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KeniKT/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KeniKT/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KeniKT/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/KeniKT/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Simulation
 |  |
@@ -569,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/KeniKT/Leetcode/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
