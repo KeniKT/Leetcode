@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/KeniKT/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KeniKT/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KeniKT/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/KeniKT/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KeniKT/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/KeniKT/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/KeniKT/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/KeniKT/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/KeniKT/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/KeniKT/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/KeniKT/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/KeniKT/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
