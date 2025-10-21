@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KeniKT/Leetcode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/KeniKT/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/KeniKT/Leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Heap (Priority Queue)
