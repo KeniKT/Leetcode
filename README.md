@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KeniKT/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KeniKT/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/KeniKT/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KeniKT/Leetcode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/KeniKT/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/KeniKT/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/KeniKT/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KeniKT/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/KeniKT/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/KeniKT/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/KeniKT/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KeniKT/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/KeniKT/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KeniKT/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/KeniKT/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KeniKT/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KeniKT/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -614,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KeniKT/Leetcode/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KeniKT/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
